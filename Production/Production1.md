@@ -28,13 +28,3 @@ In this lab, you are granted access to an Azure Subscription and a Wiz Tenant. U
 
     ![Azure portal home page](Img/azure-portal-dashboard.png)
 
-
-## Sign in to the Wiz portal
-
-8. Open a new tab in your private browsing or incognito window.
-
-   >**Note:** Using a private browsing session ensures that any other Wiz portal sessions that you might have cached do not interfere with the lab and vice versa.</aside>
-
-9. In the new private tab, navigate to the following URL: <inject key="WIZ Portal" enableCopy="true" />.
-
-    You should be automatically signed in to the Wiz portal. If not, use the same username and TAP that you used to sign in to the Azure portal.
