@@ -10,13 +10,13 @@ In this lab, you are granted access to an Azure Subscription and a Wiz Tenant. U
 
 2. In the private browsing window, navigate to the following URL: <inject value="https://portal.azure.com/" enableCopy="true" />.
 
-3. On the **Sign in** page, enter the following username: <inject key="Username" enableCopy="true" />.
+3. On the **Sign in** page, enter the following username: <inject key="AzureAdUserEmail" enableCopy="true" />.
 
     ![Azure sign-in page](Img/azure-sign-in-username.png)
 
 4. Click **Next**.
 
-5. On the **Enter Temporary Access Pass** page, enter the following **Temporary Access Pass**: <inject key="Username" enableCopy="true" />.
+5. On the **Enter Temporary Access Pass** page, enter the following **Temporary Access Pass**: <inject key="AzureAdUserPassword"></inject>.   
 
     ![Azure enter Temporary Access Pass page](Img/azure-sign-in-tap.png)
 
